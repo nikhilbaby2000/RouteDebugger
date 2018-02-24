@@ -1,5 +1,5 @@
 {
-    "name": "arackal/route-debuger",
+    "name": "arackal/route-debugger",
     "type": "library",
     "description": "A package to debug the routes",
     "keywords": [
