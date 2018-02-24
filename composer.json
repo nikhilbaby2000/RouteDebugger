@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Arackal\\RouteDebuger\\": "src"
+            "Arackal\\RouteDebugger\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Arackal\\RouteDebuger\\": "tests"
+            "Arackal\\RouteDebugger\\": "tests"
         }
     },
     "scripts": {
