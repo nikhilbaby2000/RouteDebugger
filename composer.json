@@ -1,18 +1,20 @@
 {
     "name": "Arackal/RouteDebuger",
     "type": "library",
-    "description": ":package_description",
+    "description": "A package to debug the routes",
     "keywords": [
         "Arackal",
-        "RouteDebuger"
+        "RouteDebuger",
+        "Route",
+        "Debuger"
     ],
     "homepage": "https://github.com/Arackal/RouteDebuger",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": ":Nikhil Baby",
+            "email": "nikhilbaby2000@gmail.com",
+            "homepage": "https://github.com/nikhilbaby2000",
             "role": "Developer"
         }
     ],
