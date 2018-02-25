@@ -1,6 +1,6 @@
 <?php
 
-namespace Router\Src\Http\Controllers;
+namespace Arackal\RouteDebugger;
 
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
