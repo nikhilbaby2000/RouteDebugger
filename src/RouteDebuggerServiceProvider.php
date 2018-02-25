@@ -55,7 +55,7 @@ class RouteDebuggerServiceProvider extends ServiceProvider
         );
 
         $this->publishes([
-            data_get($config, 'view_directory') => base_path('resources/views/RouteDebugger'),
+            $this->path('resources/views/route-debugger.blade.php') => base_path('resources/views/RouteDebugger/route-debugger.blade.php'),
         ], 'route-debugger');
     }
 
